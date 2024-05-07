@@ -1,6 +1,6 @@
 ---
 title: "Practice Activity 6”"
-format: html
+author: "Nicolas, Skylar, Tyler, Tamara"
 editor: visual
 embed-resources: true
 ---
