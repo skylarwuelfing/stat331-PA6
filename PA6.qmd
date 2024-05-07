@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6”"
+author: Skylar Wuelfing, Tamara Nadjsombati, Nicolas Ramel, Tyler Kitchen 
 format: html
 editor: visual
 embed-resources: true
